@@ -1,0 +1,50 @@
+body {
+  font-family: "nanumsquare";
+}
+
+.black-nav {
+  background: black;
+  width: 100%;
+  display: flex;
+  color: white;
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.list {
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.modal {
+  padding: 20px;
+  background: #eee;
+  margin-top: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+.publish {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.publish input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  width: 80%;
+  border: 1px solid grey;
+}
+
+.publish button {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
